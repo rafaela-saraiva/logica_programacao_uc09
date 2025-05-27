@@ -1,0 +1,28 @@
+Atividade 02
+
+Olhe para a direita 
+Olhe para a esquerda
+
+Se estiver com muito carro
+	espere o sinal ficar vermelho
+Senão
+	atravesse
+
+Se o sinal estiver vermelho
+	atrevesse
+Senão
+	espere o semáforo ficar vermelho
+
+Vire para a direita
+
+Se estiver vindo carro
+	espere
+Senão
+	atravesse
+
+Vire para direita
+
+Se o sinal estiver vermelho
+	atrevesse
+Senão
+	espere

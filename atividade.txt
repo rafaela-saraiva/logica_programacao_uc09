@@ -1,0 +1,24 @@
+Atividade  01
+
+Mova a garra para a lampada velha
+
+Feche a garra
+
+Gire garra 180 sentido anti-horario
+
+Mova a garra para a mesa 
+
+Abra a garra
+
+Mova a garra para a lampada nova
+
+feche a garra
+
+Mova a garra para o receptáculo bocal
+
+Gire garra 180 sentido horário
+
+Abra a garra
+
+--------------------------
+
